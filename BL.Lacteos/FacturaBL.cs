@@ -67,7 +67,7 @@ namespace BL.Lacteos
             {
                 return resultado;
             }
-
+          
             CalcularExistencia(factura);
 
             _contexto.SaveChanges();
