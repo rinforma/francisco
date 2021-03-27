@@ -67,3 +67,4 @@ C:\avance #8\WinLacteos\bin\Debug\ShockwaveFlashObjects.dll
 C:\avance #8\WinLacteos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\avance #8\WinLacteos\bin\Debug\stdole.dll
 C:\avance #8\WinLacteos\obj\Debug\WinLacteos.FormReporteProductos.resources
+C:\avance #8\WinLacteos\obj\Debug\WinLacteos.FormReporteFacturas.resources
